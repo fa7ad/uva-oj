@@ -25,3 +25,6 @@ make clean
 ```bash
 python3 main.py
 ```
+
+## Solved
+[List of solved problems](SOLVED.md)
